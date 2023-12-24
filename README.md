@@ -1,4 +1,4 @@
-<Center> # Abalone-Age-Detection </Center>
+# Abalone-Age-Detection 
 
 
 ## Classification on Abalone dataset
